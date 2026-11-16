@@ -1,0 +1,8 @@
+{
+  "id": "<folder-name>",
+  "title": "<DISPLAY TITLE>",
+  "sub": "<one-line subtitle>",
+  "href": "./<folder-name>/",
+  "meta": "<tech · tech · tech>",
+  "accent": "#9fd8ff"
+}

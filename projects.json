@@ -6,13 +6,5 @@
     "href": "https://satangel2222.github.io/gargantua/",
     "meta": "WebGL2 · RK4 null geodesics · 4.19M particles",
     "accent": "#f0b070"
-  },
-  {
-    "id": "demo",
-    "title": "DEMO",
-    "sub": "SCRIPT TEST",
-    "href": "./demo/",
-    "meta": "probe",
-    "accent": "#9fd8ff"
   }
 ]
